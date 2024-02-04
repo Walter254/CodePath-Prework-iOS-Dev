@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *ChangeColor*
 
 Submitted by: **Walter Wagude**
 
@@ -10,7 +10,7 @@ Time spent: **1.5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users can see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-The set-up took longe than I expected, just setting up xcode and the simulator
+The set-up took longer than I expected, just setting up xcode and the simulator
 
 Favorite Applications:
     
